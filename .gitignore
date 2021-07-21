@@ -30,3 +30,6 @@
 *.exe
 *.out
 *.app
+/.vs/UEProj_git/v16
+/.vs/slnx.sqlite
+/.vs/ProjectSettings.json
